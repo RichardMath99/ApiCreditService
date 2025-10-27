@@ -144,3 +144,4 @@ C:\Users\richa\source\repos\FlagshipAPI\FlagshipAPI\obj\Debug\net10.0\FlagshipAP
 C:\Users\richa\source\repos\FlagshipAPI\FlagshipAPI\obj\Debug\net10.0\FlagshipAPI.genruntimeconfig.cache
 C:\Users\richa\source\repos\FlagshipAPI\FlagshipAPI\obj\Debug\net10.0\ref\FlagshipAPI.dll
 C:\Users\richa\source\repos\FlagshipAPI\FlagshipAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\richa\source\repos\FlagshipAPI\FlagshipAPI\obj\Debug\net10.0\FlagshipAPI.sourcelink.json

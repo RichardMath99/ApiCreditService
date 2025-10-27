@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlagshipAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+390e29e87cfe2e9a4f5fe456034bc71d05bb580f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlagshipAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlagshipAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
